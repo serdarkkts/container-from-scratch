@@ -10,5 +10,7 @@
 Writing a container in a few lines of Go code.
 
 Followed along with the presentation and coded stuff myself.
-Check this wonderful presentation for understanding the code.[DockerCon 2017](https://youtu.be/MHv6cWjvQjM)
-I recommend checking the GitHub profile of Liz for more stuff. [Liz Rice](https://github.com/lizrice)
+
+Check this wonderful presentation for understanding the code. --> [DockerCon 2017](https://youtu.be/MHv6cWjvQjM)
+
+I recommend checking the GitHub profile of Liz for more stuff. --> [Liz Rice](https://github.com/lizrice)
