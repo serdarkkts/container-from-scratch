@@ -38,6 +38,8 @@ func child() {
 	cmd.Stderr = os.Stderr
 
 	must(syscall.Sethostname([]byte("container")))
+	must(syscall.Chroot("/home/serdar/containerfs"))
+	must(syscall.Chdir("/"))
 
 	must(cmd.Run())
 }
